@@ -1,93 +1,126 @@
-# Flutter Samples
 
-You can follow me on twitter [@diegoveloper](https://www.twitter.com/diegoveloper)
+# My Flutter Projects
+Flutter apps with cool design and animations
 
-<a href='https://www.buymeacoffee.com/diegoveloper' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
-
-
-
+# Social Media
+#### <img src="https://i.ibb.co/Js7Gh5N/youtube.png" height="12"/>   [Youtube](https://www.youtube.com/channel/UCe2G2ZkcHG9TliZ03L14U7g) <img src="https://i.ibb.co/c8JfWMM/facebook.png" height="12"/>   [Facebook](https://www.facebook.com/brocodev)  <img src="https://i.ibb.co/MSN1F6L/gorjeo.png" height="12"/>   [Twitter](https://twitter.com/brocodev1) 
 
 ## Getting Started
-To build and run this project:
+This project is a starting point for a Flutter application.
+A few resources to get you started if this is your first Flutter project:
 
-1. Get Flutter [here](https://flutter.dev) if you don't already have it
-2. Clone this repository.
-3. `cd` into the repo folder.
-4. run `flutter run-android` or `flutter run-ios` to build the app.
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-(Please note that a Mac with XCode is required to build for iOS)
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.´
+___
+## 12 - Travel App
+#### [TRAVEL APP with Animations - Flutter Challenge](https://www.youtube.com/watch?v=YeV2ZYn2_JI&t=686s&ab_channel=diegoveloper) <img src="https://i.ibb.co/1fTqGCz/You-Tube-s-mbolo.jpg" width="16">
+ | Feed Screen | Details Screen |
+ |-----------|-----------|
+ |<img src="https://media.giphy.com/media/QE4ePwfrDUdp2OTegD/giphy.gif" width="250" >|<img src="https://media.giphy.com/media/Lr51m3IIi3yLae1bV0/giphy-downsized-large.gif" width="250"> |
 
+### [Inspiration](https://www.instagram.com/p/B-kGS--gluL/) <img src="https://i.ibb.co/dK1QRMq/logo-instagram-icon.png"  width="16">
 
+___
+## 11 - Template Gallery App
+#### [Flutter Card Template Animation | Stacked Cards | Speed Code](https://www.youtube.com/watch?v=YeV2ZYn2_JI&t=686s&ab_channel=diegoveloper) <img src="https://i.ibb.co/1fTqGCz/You-Tube-s-mbolo.jpg" width="16">
+ | Perspective List View| Settings Drawer |
+ |-----------|-----------|
+ |<img src="https://media.giphy.com/media/eZjCCjKneC0Us572ry/giphy.gif" width="250" >|<img src="https://media.giphy.com/media/L1PIR41QveWiVy7on3/giphy.gif" width="250"> |
 
+### [Inspiration]() <img src="https://i.ibb.co/J52dhz6/dribbble-1.png" width="20">
 
-
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/502px-Logo_of_YouTube_%282015-2017%29.svg.png' width="250">
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/bYqeGigTsBw/0.jpg)](http://www.youtube.com/watch?v=bYqeGigTsBw "diegoveloper")
-
-
-## FLUTTER SAMPLES
-
+___
+## 10 - Bookstore App
+Flutter UI + Hero Animations + Simple Bloc
+ | Home Page & Filter Page | Book Detail Page |
+ |-----------|-----------|
+ |<img src="https://media.giphy.com/media/Cm4iOYXAs5UnfgMwJt/giphy.gif" width="250" >|<img src="https://media.giphy.com/media/deHDFnQ92f5TEOuK1z/giphy.gif" width="250"> |
  
- | [**Hello Flutter**](https://medium.com/@diegoveloper/hello-flutter-eb49e9b27916)      | [**Splash screen in Flutter**](https://medium.com/@diegoveloper/flutter-splash-screen-9f4e05542548)     | 
-|------------|-------------| 
-|  <img src="https://cdn-images-1.medium.com/max/1600/1*Px0kTaFj9fnY2VJdrWGJgA.gif" width="250"> |  <img src="https://cdn-images-1.medium.com/max/1600/1*GfM4eb_y_rM6BaAgDYBWZA.gif" width="250"> |
+ | Open Book Page | 
+ |--------------|
+ |<img src="https://media.giphy.com/media/BBWnhh0JYme8lOEjgs/giphy.gif" width="250" > |
+### [Inspiration](https://dribbble.com/shots/14070372-Custom-Your-Book-List) <img src="https://i.ibb.co/J52dhz6/dribbble-1.png" width="16">
 
- | [**Fetching & Parsing JSON data**](https://medium.com/@diegoveloper/flutter-fetching-parsing-json-data-c019ddddaa34)      | [**Persistent Tab bars**](https://medium.com/@diegoveloper/flutter-persistent-tab-bars-a26220d322bc)     | 
-|------------|-------------| 
-|  <img src="https://cdn-images-1.medium.com/max/1600/1*KJKHYTFubWr2vamVczhQ_Q.gif" width="250"> |  <img src="https://cdn-images-1.medium.com/max/1600/1*s0gi3k5upbW-o88cgW61gg.gif"> |  
+___
+## 9 - Instagram Redesign App
+Flutter UI + Animations + Slivers + Simple Bloc
+ | Home Page | Dark Mode |
+ |-----------|-----------|
+ |<img src="https://media3.giphy.com/media/kcWFROSu37gtXpMGv4/giphy.webp" width="250" >|<img src="https://media2.giphy.com/media/Ay2opGqGyWxGXSQRqV/giphy.gif" width="250"> |
+ 
+ | Stories View | Notifications Page |
+ |--------------|--------------------|
+ |<img src="https://media3.giphy.com/media/kFCmUoyx5QXRzQgIen/giphy.gif" width="250" > |  <img src="https://media3.giphy.com/media/066yx2JbrILzbtZUHP/giphy.gif" width="250">|
+### [Inspiration](https://dribbble.com/shots/14188610-Instagram-Redesign-2020) <img src="https://i.ibb.co/J52dhz6/dribbble-1.png" width="16">
 
- | [**Collapsing Toolbar - Sliver App Bar**](https://medium.com/@diegoveloper/flutter-collapsing-toolbar-sliver-app-bar-14b858e87abe)      | [**Shared Element Transitions — Hero**](https://medium.com/@diegoveloper/flutter-shared-element-transitions-hero-heroes-f1a083cb123a)     | 
-|------------|-------------| 
-|  <img src="https://cdn-images-1.medium.com/max/1600/1*xtROWw7cWRrK5b7tPbw2mg.gif" width="250"> |  <img src="https://cdn-images-1.medium.com/max/1600/1*IeAD2e0hM_QThzry3v1FMw.gif" width="250"> |
+___
+## 8 - Superhero Movies App
+#### [Superhero Movies App - Flutter Speed Code UI](https://www.youtube.com/watch?v=heimVhqr48M&t=459s) <img src="https://i.ibb.co/1fTqGCz/You-Tube-s-mbolo.jpg" width="16">
+ | Slider Page | Detail Page |
+ | ----------------- |-------------|
+ | <img src="https://media4.giphy.com/media/RriIppZB1GXXAAXjH6/giphy.gif" width="250" > | <img src="https://media1.giphy.com/media/sZTnX2wu5y1jAhJ1sI/giphy.gif" width="250">|
+### [Inspiration](https://dribbble.com/shots/5935613-Marvel-Movies-Interaction) <img src="https://i.ibb.co/J52dhz6/dribbble-1.png" width="16">
 
- | [**ScrollController and ScrollNotification**](https://medium.com/@diegoveloper/flutter-lets-know-the-scrollcontroller-and-scrollnotification-652b2685a4ac)      | [**App Clone - Android Messages**](https://medium.com/@diegoveloper/flutter-app-clone-android-messages-e4b034a6c893)     | 
-|------------|-------------| 
-|  <img src="https://cdn-images-1.medium.com/max/1600/1*_QUSvcpBYYX8v_SiXWpeRA.gif" width="250"> |  <img src="https://cdn-images-1.medium.com/max/1600/1*Rb2ATV7nL0lO5K2VcF1NVw.gif" width="250"> |
+___
+## 7 - Social App Photographers
+Flutter UI + Clippers + Animations
+ | Home Page | Profile Page |
+ | --------- |--------------|
+ | <img src="https://media1.giphy.com/media/9lPSh9Kmkx06njdmt6/giphy.gif" width="250" > | <img src="https://media4.giphy.com/media/QVjFJABT8dfXWgfv8G/giphy.webp" width="250">|
+ 
+### [Inspiration](https://dribbble.com/shots/6690819--Social-App-Design-Photographers) <img src="https://i.ibb.co/J52dhz6/dribbble-1.png" width="16">
 
-| [**Communication between widgets**](https://medium.com/flutter-community/flutter-communication-between-widgets-f5590230df1e)   | Animations  / Foldable Page |
-|--|--|
-| <img src="https://cdn-images-1.medium.com/max/1600/1*kIZJa1_i0OcsqymMxk04zA.gif" width="250"> | <center> <img src="https://media.giphy.com/media/e5Xc8eQQCwyF5AoG7U/giphy.gif" width="250"> </center>|
+___
+## 6 - Gaming App
+Flutter UI + Page View Animation 
+ | Home Page | Trending Page |
+ | ----------------- |-------------|
+ | <img src="https://media3.giphy.com/media/7vG0x6xREqBrtAgDh1/giphy.gif" width="250" > | <img src="https://media0.giphy.com/media/rnSIi0c1YJQaz0TV5i/giphy.gif" width="250">|
+### [Inspiration](https://dribbble.com/shots/14420964-Gaming-App) <img src="hhttps://i.ibb.co/J52dhz6/dribbble-1.png" width="16">
 
-|Animations / List-Detail   | Animations / Circular List/ |
-|--|--|
-| <center> <img src="https://media.giphy.com/media/YrquS6qE7hXmAD82Bf/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/iNwDIyUWQ9tDo10tJ6/giphy.gif" width="250"> </center>|
+___
+## 5 - My Medical Appointment
+Flutter UI + Simple Animations
+| Home Page |
+|-----------|
+|<img src="https://media4.giphy.com/media/vEQYseD1YceT4KNKmk/giphy.gif" width="250"/>|
+### [Inspiration](https://www.uplabs.com/posts/my-medical-appoinment) <img src="https://cdn-images-1.medium.com/max/280/1*pWMauDqpatwd-TNnGrB-vg@2x.png" width="16">
 
-|App Clone / Twitter Profile Clone | [Custom AppBar & SliverAppBar](https://medium.com/@diegoveloper/flutter-increase-the-power-of-your-appbar-sliverappbar-c4f67c4e076f) |
-|--|--|
-| <center> <img src="https://media.giphy.com/media/JH0WO8BWjl6rxwcols/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/jRwXjfQDEnnMLbrVL1/giphy.gif" width="250"> </center>|
+___
+## 4 - Music Albums Collection
+Flutter UI + Hero Animations
+ | Albums Grid/List Page   | Player Page  |
+ | ----------------- |-------------|
+ | <img src="https://media0.giphy.com/media/hJvFVeckEgFziFMivt/giphy.gif" width="250" > | <img src="https://media4.giphy.com/media/DML1C5bzWDrMJVug1v/giphy.gif" width="250">|
+### [Inspiration](https://dribbble.com/shots/12033542-Music-Player-Interaction) <img src="https://i.ibb.co/J52dhz6/dribbble-1.png" width="16">
 
-| Animations / Split Widgets  | Animations / Custom Sliver Header |
-|--|--|
-| <center> <img src="https://media.giphy.com/media/fWqRy75Zg5lEtP5qkc/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/JOXClC3XFwHosWAVqX/giphy.gif" width="250"> </center>|
+___
+## 3 - Music Vinyl Animation
+Flutter UI + Animations
+ | Albums List Page | Player Page  |
+ | ----------------- |-------------|
+ | <img src="https://media.giphy.com/media/T4i2qn96gHbfB3OoN7/giphy.gif" width="250" > | <img src="https://media.giphy.com/media/4Jv4R2I0aopCOmhNQg/giphy.gif" width="250">|
+#### [Inspiration](https://dribbble.com/shots/10123436-Music-Player-Vinyls) <img src="https://i.ibb.co/J52dhz6/dribbble-1.png" width="16">
 
-| Menu Navigations / Header Navigation  | Animations / Turn on the light|
-|--|--|
-| <center> <img src="https://media.giphy.com/media/f5SP7mJnO4x9mK4CSv/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/VgSfLeabru2qTerOrp/giphy.gif" width="250">  </center>|
+___
+## 2 - FindOut
+Flutter UI + Simple Animations
+ | Home Page | City Page |
+ | --------- |-----------|
+ | <img src="https://media4.giphy.com/media/RW2noZZbTWPXLydkJY/giphy.webp" width="250" > | <img src="https://media4.giphy.com/media/BXy9dRcRKqjfGhdLXc/giphy.gif" width="250">|
+ 
+### [Inspiration](https://dribbble.com/m4st3rmiau) <img src="https://i.ibb.co/J52dhz6/dribbble-1.png" width="16">
 
-| Animations / Hide my widgets  | Animations / Menu Exploration |
-|--|--|
-| <center> <img src="https://media.giphy.com/media/h4x6fHw65l3KdnDrTi/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/Y07CGmYvcNyl9rkgbY/giphy.gif" width="250">
- </center>
+___
+## 1 - Movie Selections
+Flutter UI + Animations
+ | Home Page  | Page flow - Buy Ticket  |
+ | ---------- |-------------------------|
+ | <img src="https://media0.giphy.com/media/6KAleTd3WggPOgc4Rn/giphy.webp" width="250"> | <img src="https://media.giphy.com/media/Jj2yKZQc0B8gZ387ue/giphy.gif" width="250">|
+ 
+### [Inspiration ](https://www.uplabs.com/posts/movie-selection-screens-animation) <img src="https://cdn-images-1.medium.com/max/280/1*pWMauDqpatwd-TNnGrB-vg@2x.png" width="16">
 
- | App Clone / Photo Concept  | App Clone / Movies Concept |
-|--|--|
-| <center> <img src="https://media.giphy.com/media/XybRawN2vj4YV3fhul/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/UuNiEk20TKjn4F4H7a/giphy.gif" width="250">
- </center>
-
-  | App Clone / Sports Store  | App Clone / Shoes Store  |
-|--|--|
-| <center> <img src="https://media.giphy.com/media/RJn8BMmOzfaW101iS2/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/MeP49gjvFbUDShkzJM/giphy.gif" width="250">
- </center>
-
-   | App Clone / Album Flow  | App Clone / Credit Cards Concept  |
-|--|--|
-| <center> <img src="https://media.giphy.com/media/emGlZPMbFpkNDrFuO7/giphy.gif" width="250"/> </center> | <center> <img src="https://media.giphy.com/media/UrsStRAMXOT93wwyP2/giphy.gif" width="250"/> </center>
-
-   | [Custom AppBar & SliverAppBar](https://medium.com/@diegoveloper/flutter-sliverappbar-with-stretchy-header-9ca04f316ff0) | [App Clone / Travel Concept Demo](https://www.youtube.com/watch?v=VXdpxnjmy0M) |
-|--|--|
-| <center> <img src="https://media.giphy.com/media/QuIvsrhjCr4oPS49qa/giphy.gif" width="250"/> </center> | <center> <img src="https://media.giphy.com/media/gF30YeWCn0Ncf0qxCS/giphy.gif" width="250"/>
-
-   | [Animations / Shrink Top List](https://www.youtube.com/watch?v=becUP_s-KfU) | Animations / Neon Button |
-|--|--|
-| <center> <img src="https://media.giphy.com/media/XFproCCYQ9eDR416g1/giphy.gif" width="250"/> </center> | <center><img src="https://media.giphy.com/media/L1W2zwjOZAbVadQU56/giphy.gif" width="250"/> </center>
